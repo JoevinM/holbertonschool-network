@@ -1,3 +1,9 @@
 #!/bin/bash
 
-netstat --program
+netstat -tuxlp
+
+# -t (TCP)
+# -u (UDP)
+# -x (UNIX)
+# -l (Listen)
+# -p (Programm/PID)
