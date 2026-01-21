@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-netstat -tuxlp
+netstat -lp
 
 # -t (TCP)
 # -u (UDP)
