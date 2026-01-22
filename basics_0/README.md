@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-This project introduces the **fundamental concepts of computer networking**.  
+This project introduces the **fundamental concepts of computer networking**.
 It focuses on how devices communicate over networks, how data is transported, and how to troubleshoot connectivity issues using common networking tools.
 
 The project mainly covers:

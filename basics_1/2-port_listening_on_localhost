@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Listen on port 98 on localhost and display anything sent
+
+echo "Starting my script."
+# Listen on 127.0.0.1:98
+nc -l 127.0.0.1 98
